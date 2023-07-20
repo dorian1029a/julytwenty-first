@@ -1,4 +1,5 @@
 pool:
+  name: Default
   vmImage: ubuntu-latest
 stages:
 - stage: ci
